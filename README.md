@@ -1,8 +1,8 @@
 <!-- BANNER: 3D Visuals (Development / Deployment / Growth) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="30%" alt="Building Code" style="max-width: 100%; border-radius: 12px;"/>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="30%" alt="Continuous Deployment" style="max-width: 100%; border-radius: 12px;"/>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="30%" alt="Business Growth" style="max-width: 100%; border-radius: 12px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9rYzE3cDl6M2Z5eWt4eWZ6eDZ6eGJ5eWZ6eDZ6eGJ5eWZ6eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" alt="Development" style="border-radius: 12px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR0a2RwYzU1bzl2bThueTJnbXR3bHl4bGp5MjR3dmd6bWp0dG9keCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="30%" alt="Deployment" style="border-radius: 12px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl5aHZ6c2Y3ZzR0b3J5M2t4eWZ6eDZ6eGJ5eWZ6eDZ6eGJ5eWZ6eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30%" alt="Growth" style="border-radius: 12px;"/>
 </p>
 
 <!-- HERO SECTION -->
